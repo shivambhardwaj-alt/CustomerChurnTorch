@@ -45,3 +45,15 @@ Optimizer: Adam
 
 Note: Training accuracy is can be high due to strong fitting on training data or data may be so easy. Real-world generalization depends on validation/testing performance.
 
+
+
+## this is my loss graph  after some iteration it becommes constant after a while 
+## 📊 Model Output
+
+
+
+### 🔥 Prediction Output Visualization
+
+<img src="https://raw.githubusercontent.com/shivambhardwaj-alt/CustomerChurnTorch/main/output.png" width="600"/>
+
+
